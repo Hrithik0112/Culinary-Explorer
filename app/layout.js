@@ -10,7 +10,7 @@ import { SelctedBusinessContext } from "@/context/SelectedBusinessContext";
 const dosis = Dosis({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Restaurant-Finder",
+  title: "Culinary Explorer",
   description: "Help People to find Restaurants nearby",
 };
 
