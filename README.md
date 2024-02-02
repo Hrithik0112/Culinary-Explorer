@@ -4,7 +4,8 @@
 
 Developed a dynamic restaurant discovery platform using React, Next.js, and Tailwind CSS, leveraging Google Maps API and Google Places API for seamless data integration.
 
-![pro4](https://github.com/Hrithik0112/Restaurant_Finder/assets/122002784/e6e8b5db-1a75-45cf-9896-2a062a4e7b79)
+
+![Screenshot 2024-02-01 115053](https://github.com/Hrithik0112/Restaurant_Finder/assets/122002784/5d816ab5-6c99-487f-a191-d6008fb63aa8)
 
 
 ## Features
