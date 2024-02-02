@@ -1,12 +1,8 @@
-
-
 # Culinary Explorer 🍽️
 
 Developed a dynamic restaurant discovery platform using React, Next.js, and Tailwind CSS, leveraging Google Maps API and Google Places API for seamless data integration.
 
-
 ![Screenshot 2024-02-01 115053](https://github.com/Hrithik0112/Restaurant_Finder/assets/122002784/5d816ab5-6c99-487f-a191-d6008fb63aa8)
-
 
 ## Features
 
@@ -40,7 +36,8 @@ This project delivers a dynamic restaurant discovery platform, combining a respo
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Set up your Google Maps API and Next-Auth configuration.
-4. Run the application with `npm run dev`.
+4. Do fill the secrets as provided in .env.example .
+5. Run the application with `npm run dev`.
 
 ## Usage
 
