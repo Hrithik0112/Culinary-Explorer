@@ -1,39 +1,56 @@
-# Culinary Explorer
 
-Find Restaurants near you and have a great Dinner/lunch.
-next update soon
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Culinary Explorer 🍽️
+
+Developed a dynamic restaurant discovery platform using React, Next.js, and Tailwind CSS, leveraging Google Maps API and Google Places API for seamless data integration.
+
+![pro4](https://github.com/Hrithik0112/Restaurant_Finder/assets/122002784/e6e8b5db-1a75-45cf-9896-2a062a4e7b79)
+
+
+## Features
+
+- **Responsive Web Application:** Utilized React and Next.js to create a responsive and performant web application, ensuring a smooth user experience. 🌐
+
+- **Google Maps Integration:** Integrated Google Maps API and Google Places API to fetch comprehensive data on restaurants, including location, ratings, and cuisine details. 🗺️
+
+- **Data Filtering Options:** Implemented robust data filtering options, allowing users to refine search results based on cuisine type, area radius, and star ratings. 🔍
+
+- **Real-time Information:** Provided real-time information on distance from the user's current location, enhancing convenience and decision-making. 📍
+
+- **Google Maps Directions:** Enabled users to click and open Google Maps to get directions to the selected restaurant, ensuring a seamless transition from the app to navigation. 🚗
+
+- **Authentication:** Secured the application with authentication handled by the Next-Auth library, ensuring user data privacy and access control. 🔐
+
+## Project Overview
+
+This project delivers a dynamic restaurant discovery platform, combining a responsive web application, Google Maps integration, robust data filtering options, real-time information, Google Maps directions, and authentication for user data privacy and access control.
+
+## Tech Stack
+
+- **React:** A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- **Next.js:** A React framework for building server-side rendered and static web applications.
+- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom user interfaces.
+- **Google Maps API:** Provides comprehensive mapping and location-based services.
+- **Google Places API:** Offers detailed information about places, including restaurant details.
+- **Next-Auth:** An authentication library for Next.js applications.
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Set up your Google Maps API and Next-Auth configuration.
+4. Run the application with `npm run dev`.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Usage
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Explore restaurants in your area with detailed information.
+- Use filtering options to refine search results based on your preferences.
+- Get real-time information on distance and directions to selected restaurants.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Feel free to contribute to the project by opening issues or submitting pull requests. 🤝
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [MIT License](LICENSE). 📄
